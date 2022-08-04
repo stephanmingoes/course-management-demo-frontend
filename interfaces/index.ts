@@ -1,5 +1,3 @@
-import { StripeShippingAddressElement } from "@stripe/stripe-js";
-
 export interface LecturerResponse {
   id: string;
   name: string;
